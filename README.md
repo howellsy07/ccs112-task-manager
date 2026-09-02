@@ -85,7 +85,4 @@ The feature suite verifies Inertia rendering, creation, validation, update, stat
 
 ## Repository
 
-Intended submission URL: `https://github.com/howellsy07/ccs112-task-manager`
-
-The link becomes live after this folder is uploaded to that repository.
-
+Live submission URL: <https://github.com/howellsy07/ccs112-task-manager>
