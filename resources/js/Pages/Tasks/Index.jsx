@@ -71,7 +71,7 @@ export default function Index({ tasks, counts, filters, flash }) {
       <main className="page-shell">
         <section className="hero-panel">
           <div>
-            <p className="eyebrow">CCS112 · WEEK 11 PROJECT</p>
+            <p className="eyebrow">CCS112 · WEEK 11 ACTIVITY PROJECT · JOHN HOWELL J. SY</p>
             <h1>Make the day feel doable.</h1>
             <p className="hero-copy">
               A focused task manager powered by Laravel, Eloquent, React, and Inertia.
